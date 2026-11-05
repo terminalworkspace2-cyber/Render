@@ -1,3 +1,2 @@
 fastapi
 uvicorn
-llama-cpp-python==0.3.8 --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
